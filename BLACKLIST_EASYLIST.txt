@@ -1,8 +1,0 @@
-﻿[AdBl0ck]
-! Title: BLACKLIST
-! Last modified: 09/14/2021
-! Expires: 30 days (update frequency)
-! Homepage: https://adbl0ck.netlify.app
-!
-!-----------------------General advert blocking filters-----------------------!
-%include /BLACKLIST.txt%
