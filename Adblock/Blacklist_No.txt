@@ -1,0 +1,1564 @@
+[Adblock Plus 2.0]
+! Version: 4.0
+! Title: Blacklist No
+! Last modified: 5 Mar 2022 14:53
+! Expires: 365 days
+! Homepage: https://adbl0ck.netlify.app/
+!
+
+# Start
+
+##.annonselenker
+##.full-width.daily-offers
+##.sponset-innlegg
+##a[href*="sting.de17a.com"]
+##a[title=LeoVegas]
+1819.is##.augl
+1881.no##.feature-promo
+730.no##.gofollow:upward(3)
+aftenposten.no,tek.no###wallpaper
+amino.dk###Abox.AminoBox
+arendalstidende.no#?#.wpb_wrapper:-abp-contains(/^Annonse:/)
+arendalstidende.no,sorlandsavisen.no##.g-single
+austurfrett.is##.banneritem
+bb.is##.wpb_content_element
+biip.no###advertisement
+bilgalleri.dk##.top-fixed-wrapper
+bilgalleri.dk##a[href*=casino]:upward(3)
+bilgalleri.dk#?#.container:-abp-contains(Premium annoncør)
+blogg.no##+js(set, showAd, false)
+blogg.no##.contentmarketing-box
+bobilverden.no##.grid > h5
+boblad.no##.uk-overlay-hover.uk-panel
+bornholm.nu##.bannercontent
+borsen.dk##[href*="://borsen.dk/sponsoreret"]
+brudleyp.fo,hvat.fo##.vev
+byggebolig.no##.maestro-resize
+byggfakta.no##.sponsor-row
+computerworld.dk##.candis-spot
+dagens.dk##.col-sticky > div > p
+dagens.dk##.col-sticky > p
+dagens.dk##a[href*=".bedrageri.com/"]:upward(2)
+dailyrush.dk,karfan.is##.td-header-rec-wrap
+digi.no##.commercial
+digi.no##.native
+dplay.*##[class^=notificationArea]
+dusken.no##.ad-col-article
+dusken.no##.ad-in-column
+e24.no###adPlaceholderFront
+e24.no##.bg-xAdrow
+e24.no##.content-marketing-container
+e24.no##a[href*="/go.click?"]
+ekstrabladet.dk##.advertorials
+ekstrabladet.dk##a[href^="https://click-dk.plista.com/csc?"]
+ekstrabladet.dk##article[class*=dre-item--skin-native]
+feltet.dk###struct_topBanner
+feltet.dk##.box_300_default
+feltet.dk##a[onclick^=octo_]
+femina.dk#?#article.col-md-4.teaser--normal.teaser:-abp-has(div[class=annonce])
+flashscore.dk##div[class^=box_over_content]
+fotbolti.net##div[id^=banner]
+frisms.nu##.numbered-phones
+frisms.nu,mobilsiden.dk##.side-block-products
+gamer.no##.posta-placeholder
+gamer.no#?#.column.one-half:-abp-has(.promoted-offer)
+gamer.no,tu.no##+js(acis, dfpConfig, loadAds)
+globalnyt.dk##.banner-double-wrapper
+guloggratis.dk##div.item_profa
+hnytt.no#?#.et_pb_row:-abp-has([hidden])
+hvat.fo##.vev-wrap
+itavisen.no##.article-ad-video
+itavisen.no##.itavi-homepage-video-player-instream
+itavisen.no##.sponsored
+itavisen.no#?#.item:not(:-abp-contains(TEST)):-abp-has(.meta:-abp-contains(/^Annonse$/))
+itavisen.no#?#.spklw-post:-abp-has(a[href*=smartadserver])
+jn.fo###the_banners
+kanalen.no##.bannergroup
+karfan.is##.td-pb-span6
+karfan.is#?#.td-pb-span4:-abp-has(img[height="400"][width="310"])
+kode24.no##.top-profile.row
+komogvind.dk##.spotContainer
+landbrugsavisen.dk##.banner
+liverpool.no##.spklw-post-attr[data-content-source]
+lokal-avisen.no#?#.header > .right:-abp-contains(ANNONSE)
+lokalavisen.dk##.custom-annoncer-wrapper
+lokalavisen.dk#?#.vdb_player:-abp-contains(ADVERTISEMENT)
+magasinetreiselyst.no###topBanner
+magasinetreiselyst.no##.adLarge
+marsteinen.no###horizontal-outer-widgets-1
+marsteinen.no###horizontal-outer-widgets-2
+marsteinen.no###text-14
+melkoghonning.no##.g
+mobilsiden.dk#?#.content-widget:-abp-contains(Annoncer)
+momondo.*##.type-provider.clearfix.flights
+nakenprat.com##+js(aopr, document.dispatchEvent)
+nettavisen.no#?#.rel-article:-abp-has(span:-abp-contains(Reklame))
+nettavisen.no#?#.story:-abp-has(.vignette)
+nettavisen.no#?#article:-abp-has(> a[href*="?utm_source="])
+nettavisen.no#?#optimus-element:-abp-has(.dredition-embed-header)
+nordlysid.fo###ease_adgroup_3
+nordlysid.fo##.adgroup--component[collapse=top]
+nordlysid.fo##.adgroup--component[collapse=vertical]
+nordlysid.fo##column[class*=ad-style]:not([collapse])
+norskenettsider.no###g_image4
+norskenettsider.no##table
+opp.no##.classified-ads
+opp.no#?#.l-col-12:-abp-has(.classifieds-content)
+vg.no##.partnerstudio-front
+rett24.no##.p_banner-responsive
+samler.no##div[class^=sl-banner-outside-child-]
+sedenne.no##div[class*="shareButtonWrap" i]
+sedenne.no#?#div[class*=articleItem]:-abp-contains(ANNONSE)
+sedenne.no#?#div[class*=articleListItem]:-abp-contains(ANNONSE)
+side2.no##[href*="clk.tradedoubler.com/click"]
+side2.no##[href*="track.adtraction.com/t/t"]
+side2.no#?#.channel-item:-abp-has(.content > [href*="/annonsebilag/"])
+side2.no#?#a:not([href*="side2.no"]):not([href*=".blogg.no"]):-abp-has(figure[class*=img-container])
+ekstrabladet.dk###front-ekstrabladet-dk-native-1
+skessuhorn.is##.kostad-efni
+skivefolkeblad.dk##.view-cf-skf-avisannoncer
+smis.no#?#.widget:-abp-contains(Annonse)
+sorlandsavisen.no#?#div:-abp-has(> span:-abp-contains(Annonse))
+sporttv.is##div[class^=auglysing-]
+storfjordnytt.no##.code-block
+storfjordnytt.no##.wpls-logo-clearfix
+studenttorget.no###top-announce
+studvest.no##div.studv-widget.widget
+sveip.net##.logoads_wrap
+sveip.no##.fromod_section_2
+tek.no##.big-preamble.access-public.commercial
+tek.no##.partnerstudio-ad-inline
+tek.no#?#div.clearfix.col-full-width:-abp-contains(kommersielle partner)
+ticketmaster.*##div[id^=ad-slot-]
+torg.fo##.add
+travservice.dk##.tm-main-top
+travservice.dk##.widget_widgetkit
+trening.no##.cp-slidein-body
+tv2.no##+js(json-prune, enabled, testhide)
+tv2.no,abcnyheter.no,medier24.no##a[href*="adform.net"]
+tvh.no##.article-contentmarketing
+tvkampen.com,tvsporten.dk##+js(aopw, onload)
+tvkampen.com,tvsporten.dk##.custom-background:style(background-image: none !important)
+tvkampen.com,tvsporten.dk##a.p-icon.partner
+utrop.no#?#.td-pb-span4:-abp-contains(ANNONSØRINNHOLD)
+vartoslo.no#?#.vc_column-inner:-abp-has(.vo-annonse):not(:-abp-has(div[class^=td_module_])):not(:-abp-has(#sb_instagram))
+vb.is##.spons
+vg.no##+js(acis, Math.floor, g00)
+vg.no##.betting-widgets
+vg.no##.tipster
+vg.no##.wid-betting
+vg.no#?#.partner-studio:not(:-abp-has(a[href*="/nordiskfilm/"]))
+vgtv.no##+js(golem.de.js)
+vgtv.no##.apnx-container
+vgtv.no##.video-branding
+viaplay.*##.interaction-block
+xlmoto.no##.overlay-bg
+xlmoto.no##.overlay-container
+xlmoto.no##.overlay-wrapper
+xlmoto.no##.sb-overlay
+xstra.no##.td-fix-index
+bobilportal.no#?##secondary > .widget_text:-abp-has(.external)
+musikknyheter.no##.spklw-widget
+byggenytt.no##.home-ads:upward(1)
+teknologiskmatforum.no##.page-home__logos-sidebar
+oppdrettstorget.no##.index_extadsm
+ksu.no#?#.center.size-100:not(.nopaddingall)
+ksu.no#?##g-aside .size-100:-abp-has(.bannergroup)
+ksu.no#?##g-aside .size-100:-abp-has(.sprocket-strips-s)
+backpacker.no##.ad_box_middle
+canariposten.no#?#.widget_title:-abp-contains(/^Annonse$/)
+thaiguiden.no###extraContainer3
+nyteknikk.no##.rightbanner
+nyteknikk.no##.toppbanner
+norsk-rally.com###left > .bgbottom > .moduletable
+skinnelangs.no###sponsor_frame_front_white
+reiseliv.no##a[href*=annonsorartikler][href*=aksje]
+shareholders.dk###left_section
+shareholders.dk###right_section
+vg.no##.df-skin-vgpartnerstudio
+doktor.frettabladid.is##.ad-310x400
+gaffa.no##.single-post > .wrapper-2
+gaffa.no##.ad-continues-txt
+flyprat.no###header_right_cell
+flatpanels.dk##.visible-xs-block
+sol.dk###linkbox
+noresk.com,eroguide.dk##.ipsSpacer_both
+salangen-nyheter.com##.bannerspot
+hytteavisen.no##.onlybigplaktat
+hytteavisen.no##.prodlist > .row > .small-12
+hestafrettir.is##.wpb_raw_code
+utvarpsaga.is##.textwidget > center
+vg.no,e24.no,gamer.no,tek.no,digi.no##+js(aopw, __AB__)
+building-supply.dk,licitationen.dk,jernindustri.dk##.grid-article-sponsored
+gamer.no,tek.no,digi.no##.products-carousel
+veier24.no,tu.no,digi.no##.top-poster-wrap
+##.gofollow:not([href*=nyhetsbrev]):not([href*=radio])
+##a[href*="/?utm_source=strossle"]
+##.ad-paied-cont-front
+##.spklw-post-attr[data-recommendation-type=ad]
+##img[alt^="Annonse "]
+~playpilot.com##a[href*="online.adservicemedia.dk"]
+~prisguiden.no##.prisguidePost
+##.spklw-post-attr[data-type=ad]
+tv2.no##.spklw-post-attr[data-pc]
+##.spklw-post-attr[data-recommendation-type=sprinkleit]
+##.native-ad-kicker
+##.content-adunit
+##.multiple-vevlysingar
+##.full-width-vevlysingar
+portal.fo###top_vev
+portal.fo##.full-width-vev.all
+portal.fo,fiskur.fo###footer-adds
+portal.fo##.ablock
+##.annonceringBox
+##.rotating-junglebogen
+###junglebogen-left
+###junglebogen-right
+##.annonseheader
+##.reklame-spot
+###ctl00_phMain_lnkAd
+###ctl00_phMain_divParallax
+##a[href^="https://click-dk.plista.com/csc?"]
+##.nf-o-annonse
+##.nf-c-adblock-title
+goal.com##.js-betting-widget.is-country-no:upward(2)
+##.hringekja__wrapper
+##.native-advertisement
+.dk/ad/
+.dk/ads/
+.is/ad/
+.is/augl/
+.is/netbordar/
+.is/skrar/augl/
+.no/ad/
+/annonsar/*
+/annonse_$image
+/auglysing/*
+/reklam/*
+/vefauglysingar/*
+||ad.*.no^$domain=~ad.dep.no|~ad.hem.no
+||ad1.*.dk^
+||ad1.*.no^
+||ads.*.dk^$domain=~ads.mst.dk
+||ads.*.is^
+||ads.*.no^
+||adserver.*.dk^
+||annonser.*.no^$domain=~annonser.gess.no
+||auglysingar.*.is^$frame
+||banner.*.no^
+||helios.*.no^
+||vefbordar.*.is^$3p
+||vevlysingar.*.com^$3p
+||ad.no.doubleclick.net^
+||ad.primetime.net^
+||ad.shareholders.dk^
+||adext.inkclub.com^
+||adnordics.com^$3p
+||adr.kulingen.no^
+||adserver.xh.no^$3p
+||adservice.com^
+||adservicemedia.dk^
+||advertisement.vg.no^
+||bilborsen.webannonse.no^
+||cluster.chart.dk^$3p
+||dotbanner.dk^$3p
+||easy-ad.no^
+||easy-ads.dk^
+||isweb.no^$frame
+||kynning.olis.is^$3p
+||myad.no^
+||samfilm.codelab.is^$3p
+||sannsyn.com^$3p
+||heartbeat.airserve.net^$3p
+||openad.visir.is^$3p
+||static.airserve.net^$3p
+||tankeogteknikk.no^$3p
+||delivered-by-madington.com^$3p
+||vevlysingar.fo^$frame,3p
+||ndstage.wpengine.com^$image
+||boligkanalen-maestro-new.azurewebsites.net^$image
+||cdnboligkanalen.azureedge.net^$3p
+||brandstudio.inventory.schibsted.io^$frame,3p
+||matriell.dm-storage.no^$image,3p
+||tracking-genesisaffiliates.com^$image,3p
+||betterbanners.org^$3p
+||btrbnrs.link^$3p
+||banner.3loops.com^
+||print2web.sn.dk^$image
+||lib.idg.no^
+||drbrand.herokuapp.com^
+||admob.no^$3p
+||admob.dk^$3p
+||api.advista.no^$3p
+/annonse-$image
+/wp-content/uploads/*_Annonse_$image
+_toppbanner_$image
+*/bannerannonser/
+/_annonser^$image
+/Nettbanner-$image
+||lh3.googleusercontent.com/*=w468-h60-$image
+||lh3.googleusercontent.com/*=w970-h250-$image
+contentMarketing$xhr,domain=sol.no
+|blob:https://www.veier24.no/$image
+||1819.is/infosmall/$image
+||acdn.adnxs.com/ast/ast.js$script,important,domain=vg.no
+||acdn.adnxs.com/ast/ast.js$script,redirect=noopjs,important,domain=vgtv.no
+||akamai.net^$script,domain=eniro.*
+||akamaihd.net^$media,domain=dplay.*|~dplay.it|~dplay.es
+||amino.dk/images/partners/agera/240x140-forside-hardcoded*.jpg$image
+||arendalstidende.no/wp-content/uploads/*_490px.jpg^$image
+||austevollforlag.no/wp-content/*/yachtmarine2014.$image
+||austurfrett.is/images/*augl.jpg^
+/images/banners$image,domain=austurfrett.is|samler.no
+||banner.landbrugsavisen.dk/reklame.aspx$frame
+||biip.no/wp-content/uploads/*320x250.jpg^$image
+||bilgalleri.dk/content/images/fixed^$image
+||bobilverden.no/wp-content/uploads/*/Banner-1200x300px.jpg^$image
+||bornholm.nu/nonsec/banner$image
+||cdn.rikstoto.no/expert/GameShop^$frame,3p,domain=~tipster.no
+@@||cdnboligkanalen.azureedge.net/*width=2000^
+||damoh.vgtv.no/hic_qos$script,redirect=noopjs,domain=vg.no
+||deals.innocode.no/api^$3p,frame
+||deiligejenter.no^$image,domain=nakenprat.com
+||dnitv.com^$media,domain=dplay.*|~dplay.it|~dplay.es
+||dust2.dk/img/banners/*$image
+||export.prisguide.no^$domain=diskusjon.no
+||export.prisguiden.no^$domain=diskusjon.no
+||akamai.vgc.no/drfront3^$image
+||eyjar.net/skrar/ads
+||feltet.dk/*/topbanner_*.jpg^
+||feltet.dk/*/wallpaper_1.jpg^
+||feltet.dk/*_300x60.gif^
+||feltet.dk/octo_cms/files/Feltet.dk//$image
+||finn.no^$frame,domain=bt.no
+||footy.dk/wp-content/uploads/*/Sk%C3%A6rmbillede-*.png^$image
+||gratisxxx.no^$image,domain=nakenprat.com
+/wp-content/uploads/*.gif^$image,domain=hnytt.no|karfan.is
+||hnytt.no/wp-content/uploads/*/Fluffy.jpg^$image
+||karfan.is/*-470x130*.jpg^
+||karfan.is/*300x250.jpg^
+||karfan.is/wp-content/uploads/*-vefbor%C3%B0i-$image
+||leikjaland.is/*/bannerstopright/$image
+||leikjaland.is/images/*logo.png|
+||magasinetreiselyst.no/wp-content/*_annonse*promo$image
+||media.sonymusic.no/marketing/*.html$frame,3p
+||melkoghonning.no/wp-content/uploads/*_980x300px.jpg^
+||melkoghonning.no/wp-content/uploads/*_Banner_$image
+||n247.no/salg^
+@@||n247.no/salg/an_%7B40
+@@||n247.no/salg/an_%7B6C
+@@||n247.no/salg/karusell_17
+||nordlysid.fo/lysing^$frame
+||norskenettsider.no/images/ageras-banner.jpg
+||norskenettsider.no/images/remember-banner-2016.jpg
+||nvnytt.no/images/*annonse-$image
+||oyggjatidindi.com/vev_banners/*L%C3%BDsing$image
+||rett24.no*/_/attachment/inline/$image
+||saernieh.no/wp-content/uploads/2020/03/j%C3%B8rn-jensen.jpg$image
+||siglo.is/static/strevda/$image
+@@||siglo.is/static/strevda/*upphafssida$image
+||storfjordnytt.no/wp-content/uploads/*.jpg^$image
+||storfjordnytt.no/wp-content/uploads/*/26_hh.png^
+||storfjordnytt.no/wp-content/uploads/*_bilsenter.jpg^$important
+||storfjordnytt.no/wp-content/uploads/*_hovleriet.jpg^$important
+||storfjordnytt.no/wp-content/uploads/*_muri.jpg^$important
+@@||storfjordnytt.no/wp-content/uploads/*/alfred.jpg^
+@@||storfjordnytt.no/wp-content/uploads/*/dame.jpg^
+@@||storfjordnytt.no/wp-content/uploads/*/komentar*.jpg^
+@@||storfjordnytt.no/wp-content/uploads/*/les*bilete*.jpg^
+@@||storfjordnytt.no/wp-content/uploads/*/m_vinje.jpg^
+@@||storfjordnytt.no/wp-content/uploads/*/tafjord*.jpg^
+@@||storfjordnytt.no/wp-content/uploads/*300x300.jpg^
+@@||storfjordnytt.no/wp-content/uploads/2*/1*.jpg^
+@@||storfjordnytt.no/wp-content/uploads/2*/2*.jpg^
+@@||storfjordnytt.no/wp-content/uploads/2*/3*.jpg^
+||ssl.p.jwpcdn.com^*/freewheel.js$important,script,domain=eurosport.*
+||ssl.p.jwpcdn.com^*/jwpsrv.js$important,script,domain=eurosport.*|gamereactor.*|vg.no
+||ssl.p.jwpcdn.com^*/sharing.js$important,script,domain=eurosport.*|gamereactor.*
+||ssl.p.jwpcdn.com^*/vast.js$important,script,domain=eurosport.*|gamereactor.*|vg.no
+||track.adform.net^$domain=118.dk
+||track.adform.net/Banners/
+||travservice.dk/wp-content^$image
+||trolli.is/wp-content/*/banner$image
+||trolli.is/wp-content/*/benecta.png
+||trolli.is/wp-content/*/Hollin_olafsfirdi$image
+||trolli.is/wp-content/*/syngjum-kubbur$image
+||trolli.is/wp-content/*/vefsmarinn$image
+||trolli.is/wp-content/*/videoval_logo$image
+||trolli.is/wp-content/uploads/*logo-*.png$image
+||trolli.is/wp-content/uploads/2018/05/Untitled-1-1.jpg$image
+||tunnelsyn1.files.wordpress.com/*/sotra-trelast-isolasjon$image
+||tvkampen.com/media/*/banner*$image
+||tvkampen.com/media/partners/unibet-lo$image
+||utrop.no/wp-content/uploads/*/Banner_utrop$image
+||utrop.no/wp-content/uploads/2019/07/utrop.no_-1.jpg^$image
+||viasport-assets.mtg-api.com/*/prod/comScore-*.js$script
+||vikari.is/skjol/frjalsi-lif*.png$image
+||widgets.sprinklecontent.com^$domain=startsiden.no|musikknyheter.no
+||xn--bredbnd-ixa.dk/wp-content/*/velkommen_banner$image,important
+||youtube.com/embed/*&origin=https%3A%2F%2Fwww.feltet.dk&widgetid=1$frame
+/Bannere/*$image,domain=tek.no|gamer.no
+/bazaar/*$script,domain=nettavisen.no
+/bilder/erotikk1.jpg$domain=eavisa.com
+/entag.js$script,domain=eniro.*|proff.*
+/js/smartbanner/*$domain=tvkampen.com|tvsporten.dk
+/liveodds-button_nordicbet$domain=tvkampen.com|tvsporten.dk
+/nordicbet_logo$domain=tvkampen.com|tvsporten.dk
+/partners/*_ad_icon$image,domain=tvkampen.com|tvsporten.dk
+/wp-content/banners^$image,domain=arendalstidende.no|avvir.no
+/_bm/abd$script,domain=eurosport.*
+-bazaar-$script,domain=nettavisen.no
+/resources/dfp/*$domain=nettavisen.no
+/tv2ads.js$domain=tv2.dk
+||i0.wp.com/bobilportalen.no/*/180x500.png^
+/banners^$domain=musikknyheter.no|bilasolur.is|fotbolti.is
+@@||musikknyheter.no/banners/skribent
+||ballade.no/wp-content/uploads/*Uke*_Sky
+||teknologiskmatforum.no/ViewImage.aspx?*width=343^$image
+||healthtalkweb.s3.amazonaws.com/images/*_560x210.$image
+||oppdrettstorget.no/images/cms^$image
+||appetitt.no/uploads/library/320x640-*.png$image
+||appetitt.no/uploads/library/Topp-banner-*.jpg$image
+||appetitt.no/uploads/library/1150*$image
+||appetitt.no/uploads/library/*_widescreen_1920x1080_*.jpg$image
+||appetitt.no/uploads/library/*_1150x350*.jpg$image
+||appetitt.no/uploads/library/Annis.jpg^$image
+||appetitt.no/uploads/library/*_Bannere_$image
+||semegleren.com/video^$domain=canariajournalen.no
+||canariposten.no/wp-content/uploads/300x1500*$image
+||frilansinfo.no/wp-content/themes/frilansinfo-no/img/*-annonse.jpg^$image
+||thaiguiden.no/tg-980.html$frame
+||thainytt.no/files/160_*$image
+||thainytt.no/files/*-160.jpg$image
+||nyteknikk.no/images.php/180x^$image
+||nyteknikk.no/images.php/x150^$image
+/images/banners^$image,domain=norsk-rally.com|fcbarcelona.dk
+||malviknytt.no/*/ani*-*.gif^
+||malviknytt.no/wp-content/uploads/*-998x1024.jpeg^
+||malviknytt.no/wp-content/uploads/*-firkant-*e1*.$image
+||reiseliv.no/wp-content/uploads/*-Annons%C3%B8rinnhold-*-Aksjer-*.$image
+||escort46.dk/bg_images^$image
+||doktor.frettabladid.is/wp-content/uploads/*-Doktor-landscape.jpg^
+||doktor.frettabladid.is/wp-content/uploads/*/410x300_*.jpg^
+||doktor.frettabladid.is/wp-content/uploads/*-addoktor.jpg^
+||doktor.frettabladid.is/wp-content/uploads/*heilsu*.$image
+||doktor.frettabladid.is/wp-content/uploads/*/Reidist*.jpg^
+||forum.flyprat.no/images/r/Header^$frame
+_300x250px-*.gif^$domain=ilaks.no
+-banner_$domain=hnytt.no,image
+||fcbarcelona.dk/images/bcn_*.gif^
+||annoncelight.dk/Graphics/banner^
+/930x180_*.gif^$domain=noresk.com|eroguide.dk
+||veitingageirinn.is/haus20g.jpg^$image
+||utvarpsaga.is/file/*-bordi.jpg^
+||utvarpsaga.is/file/*_banner.png^
+/utvarpsaga\.is/file/[0-9a-f]{32}\.png/
+@@||vgtv.no$generichide
+||adnxs.com^$domain=vgtv.no
+||samimag.no/wp-content/uploads/2019/11/Screenshot-2020-03-21-at-12.40.32.png^
+/lykill_banner$image
+||finn.no/distribution-carousel?$object,3p
+||images.sprinklecontent.com/*.amazonaws.com%2Fimages%$image
+||f.nordiskemedier.dk/*.gif^$image
+||f.nordiskemedier.dk/2*.jpg^$image
+@@||f.nordiskemedier.dk/2*_*.jpg^$image
+||f.nordiskemedier.dk/2*.png^$image
+@@||f.nordiskemedier.dk/2*_*.png^$image
+||f.nordiskemedier.dk/banner^
+/getbanner.php^$image
+||3.248.18.175^
+||35.227.231.163^
+||45.58.146.154^
+||82.196.13.38^
+||82.221.81.9^
+||178.79.136.45^
+||freewheel-mtgx-tv.akamaized.net^$app=no.viafree.android|dk.viafree.android
+||ssl-mtgstream.tns-cs.net^$app=no.viafree.android|dk.viafree.android
+||krxd.net^$app=no.viafree.android|dk.viafree.android
+||2mdn.net^$app=no.viafree.android|dk.viafree.android
+||5e529.v.fwmrm.net^$app=com.discovery.dplay
+||ssl-dnnstream.tns-cs.net^$app=com.discovery.dplay
+||discoverynordics.hb.omtrdc.net^$app=com.discovery.dplay
+||widgets.sprinklecontent.com^$app=no.startsiden.bookmarks
+/tv2ads.js$app=dk.tv2.nyhedscenter
+-bazaar-$app=no.nettavisen.phonegap.na
+/bazaar/*$app=no.nettavisen.phonegap.na
+/resources/dfp/*$app=no.nettavisen.phonegap.na
+||finn.no^$app=no.bt
+contentMarketing$app=no.sol
+
+###ad_superboard
+###ad_topp
+###no-familieklubben-wde-front_topboard
+###toppbanner
+##.annonsetag
+##.jubii-adunit
+##div[data-placeholder*=placeholder_ad]
+1001spill.no###footer
+1001spill.no##.layout-two-columns-aside
+1001spill.no##.omega.grid_6
+180.*##.ad-min-height
+180.*##.ai-top-ad-outer
+180.*##.cc-top-ad-outer
+180.*##.idle-timeout-outer
+180.*##td[class^=frame-shadow-]
+1881.no##.ad-sleepy
+730.no#?#.g-10:-abp-contains(Artikkelen fortsetter )
+abcnyheter.no#?#.js-strossle-widget .o-grid__col:-abp-has(> article[id^=ad_native])
+abcnyheter.no#?#.o-grid__col:-abp-has(.c-ad)
+aftenbladet.no##.article-content:style(padding: 0)
+aftenposten.no##.standard-ad-container
+altomfotball.no##div[style^="padding: 15px"]
+altomfotball.no##div[style^="padding: 30px"]
+amino.dk###top-shadow-pad
+amino.dk##.ad624-60
+amino.dk##.ad624x60
+amino.dk##.topAd930x180
+arendalstidende.no#?#div[style^=font-size]:-abp-contains(/^Annonse:/)
+austurfrett.is##.lowerad
+austurfrett.is##.upperad
+avisen.dk##.Ad
+avvir.no##.avvir-block-top.avvir-block-container
+ba.no###cm2-1
+ba.no##.maelstrom-topbanner
+ba.no##.sponsored
+baatplassen.no#?#.ipsWidget:-abp-has(> .adsbygoogle)
+bilasolur.is##div[class*=advertisement-spot]:upward(1)
+bilgalleri.dk###leftFloatingBanner
+bilgalleri.dk###rightFloatingBanner
+bilgalleri.dk##.container-topbanner
+bilgalleri.dk##.recbanner300x250
+bilnorge.no###artikkel300x250right
+bilnorge.no##td[colspan="7"][style]
+bilnorge.no#?#tr:-abp-has(td:-abp-contains(Annonse:))
+bilnorge.no,yrkesbil.no###nettboard_art1
+bloggomtoppbloggere.com##.eaa.widget_text
+bodonu.no##.sidecol.hidden-xs
+bold.dk###dstop
+bornholm.nu#?#div.container:-abp-has(#left_sticky)
+borsen.dk##.dfp
+borsen.dk##.native-ads
+borsen.dk##.native-ads-item
+borsen.dk##.side-banner
+bramat.no###g-slideshow > .g-container > .g-grid > .size-100.g-block
+bt.dk##.hidden-md-down
+bt.dk##.hidden-sm-down
+bt.dk##.sidebar.col-xl-4.col-lg-4.col-md-12.col-sm-12.col-xs-12
+bt.no,byas.no##.vertical-x1-ad > .column--big
+budstikka.no##.bazaar
+byas.no##.section-ad-netboard
+bygg.no##.ads-strip
+byggebolig.no##.maestro-content-plugins
+computerworld.dk###computerworldleaderboard
+computerworld.dk##.paragraphAd
+cw.no##.ad-fit-body
+cw.no##.desktop-only.l-row > .omega.grid-12.grid-item.col
+cw.no##div[nf-desk-widget="spot.content"]:upward(2)
+dagbladet.no#?#div[class^=css]:matches-css-before(content: "Annonse")
+dagbladet.no,sol.no##[class^=AdPrefix-]
+dagensbyggeri.dk##.banner-megaboard-top
+dagensbyggeri.dk##.pushBelow.pushAbove
+dagensbyggeri.dk##div.no-print.hidden-xs.row
+dagensmedisin.no##.widget-article-ad.widget
+dagsavisen.no##.dagsavisenDesktopAd
+dailyrush.dk##.dr-medium-rectangle
+dailyrush.dk##.dr-top-banner
+danishfamilysearch.dk##div[id^=ContentPlaceHolder1_div_annonce]
+daria.no##.container[style*=" solid "]
+daria.no##div[style*=";width:200px;"]
+dba.dk##.marketing-container
+denstoredanske.dk###banner-zone-1
+dfly.no##.container-footer-ad:upward(1)
+dfly.no##.sidebar-ad:upward(1)
+digi.no,medier24.no##.ad-label-vertical
+dinavis.no##.newsAD
+diskusjon.no###diskusjon_toppbanner
+diskusjon.no##.prisguide-content
+dk-kogebogen.dk###banners_left
+dk-kogebogen.dk###banners_right
+dk-kogebogen.dk,shareholders.dk###top_banner
+dmi.dk##.add-container
+dmi.dk##.section-1-ad:upward(1)
+dn.no###googlead-toppbanner:style(min-height: 0 !important)
+dn.no##[id^=googlead-]:not(#googlead-toppbanner)
+dn.no##div[data-placeholder=lantern_placeholder_ad]:upward(2)
+dv.is##.ticker
+e24.no###main > div:nth-of-type(1)
+e24.no###main > div:nth-of-type(3)
+e24.no##.rightColumn:style(margin-top: 10px !important)
+e24.no##div[data-ad-subtype]
+eavisa.com##.custom-a-ds
+eavisa.com##.post-content > .items-container
+eavisa.com##.adguru-modal-popup
+ebcontent.dk###ebcontentMegaboard
+edbpriser.dk##div[id^=leftAdSpotAdcontainer]:upward(2)
+ehandel.com##aside
+eidfaxi.is##.ad-banner:upward(1)
+ekstrabladet.dk###manipulate_monster
+elmagasinet.no##.RightBoxWrapper
+elmagasinet.no##.SkyskraperWrapper
+euroinvestor.dk,valutakurser.dk###ctl00_BannerContainerTop
+euroman.dk##.happy-place--labeled
+eyjar.net##.hausad
+eyjar.net##div[style^="width:100%;max-width:390px;"]
+familieklubben.no##.tracking-article-offers
+familieklubben.no##div.netboard
+familieklubben.no##div[id*=familieklubben-wde-article_]
+familieklubben.no##div[id*=familieklubben-wde-front_]
+filmfront.no##.annonse_forklaring
+filmfront.no##.responsiv_reklame
+filmweb.no###adPosContainer
+filmweb.no##.mpu
+filmweb.no##.topad.row
+filmweb.no##div[class^=ad-module]
+filmz.dk##.page-top-wrapper
+finansavisen.no##.parallax-container
+finansavisen.no##article[id^=lpc_belowarticle]
+finn.no###afshcontainer
+finn.no##.ads__unit--banner
+finn.no##.banners
+finn.no##article[id^=ad-stream_]
+finn.no##div[id^=netboard_]
+finna.is##.augl
+fiskeribladet.no##div[id^=banner_billboard1_]
+fiskeribladet.no##div[id^=banner_billboard1_] + .hide_on_print
+fl-arena.de##.content_right_medium_rect_ad_box
+fl-arena.de##.do_not_print.article_teaser_no_border
+fla.de##.adsenseblock
+forum.klikk.no##.ehm-megaboard
+forum.kvinneguiden.no##div.ehm-megaboard
+framtiden.no##.center[style*=";font-weight:700;"]
+freak.no##.right-column-wrapper
+friflyt.no###ads_fullwidth_container
+friflyt.no###wallpaperCenterAd
+friflyt.no,terrengsykkel.no##.inlineAdBlock
+fvn.no##.brandboard-container
+gaffa.dk##.external-branding
+gaffa.dk##.sticky-banner-wrapper
+gamer.no##.aaa-980x150
+gamer.no##.aaa-placeholder
+gamer.no##.pst-placeholder
+gaysir.no##.ad_wrapper_content
+gjerrigknark.com##.dividerBlock:not(.clearfix)
+godt.no##[class^=advert]
+google.*###cnsi ~ [jsaction*=dismiss]
+gratiskryssord.no###adSign
+gratiskryssord.no##.adSign
+gratisspil.dk###amLargeLeaderboard
+guloggratis.dk###bottomBanner
+guloggratis.dk###topBanner
+guloggratis.dk##.ad_form_header_right
+guloggratis.dk##.adservering-container
+guloggratis.dk##.banner-container
+h-a.no##.banners-row
+hammerfestingen.no##.annonsestyle
+hardwareonline.dk##.centerfull
+hardwareonline.dk##.containerlefttop
+hblad.no##.ad-container-na-ne
+hblad.no##.ad-container-wrap
+historienet.no##.col-md-12
+historienet.no##.responsive-images
+hockeymagasinet.dk##.ss-left-sky-reclam
+hockeymagasinet.dk##.ss-right-sky-reclam
+hwt.dk##.box.text-center
+information.dk##.masthead
+installator.dk##.addon--ad
+itavisen.no##.\35 00Add:not(.homepage-video-area)
+itavisen.no##.ad:before
+itavisen.no##.comcontent:upward(1)
+itavisen.no##.fifth-article-ad
+itavisen.no##.itavi-after-content
+itavisen.no##.itavi-article-page-video-player-outstream
+itavisen.no,tvguide.dk##div[id^=ad-]
+jn.fo##.lysingarspot
+jodelgrin.dk###text-2
+jubii.dk##.mobiletakeover-background
+jyllands-posten.dk###MegaBoard_Top
+jyllands-posten.dk##div[id^=MediumRectangle]
+jyllands-posten.dk##.jp-banner
+kanalfrederikshavn.dk###c1670
+kanalfrederikshavn.dk###c1671
+kanalfrederikshavn.dk###c2283
+kanalfrederikshavn.dk###c888
+kanalfrederikshavn.dk###c890
+kanalfrederikshavn.dk###knapper
+kanalfrederikshavn.dk##.boxbanner:upward(2)
+kanalfrederikshavn.dk##table[width="620"]
+kanalfrederikshavn.dk##td[height="237"]:not([valign])
+kanalfrederikshavn.dk##td[height="237"][width="315"]:not(#colRight)
+kanalfrederikshavn.dk##td[width="315"][height="55"]
+kart.1881.no##.panel-ad-skyscraper
+kendte.dk###taboola-above-article-thumbnails:upward(1)
+kendte.dk##.transparent-bg
+klikk.no##.floatRight.columns
+klikk.no##div[id^=lpc_belowArticle]
+kommunikationsforum.dk##.banner-top
+kommunikationsforum.dk##div[style="padding-top: 20px; padding-bottom: 20px; "]
+koplr.no##.column-banner-ads
+kreativeideer.no##.strossle-container
+kreativtforum.no##.sidebar-box
+krs247.no##.prl-span-12 + h5
+langrenn.com##div[id^=bannerlocation]
+lifdununa.is#?#.widget:-abp-has(.ads)
+lokal-avisen.no#?#.title:-abp-contains(/ANNONSE/i)
+lydogbilde.no,lydogbillede.dk##.adremark
+lydogbilde.no,lydogbillede.dk##.background-ad:style(min-height: 0 !important)
+m.feltet.dk##.banner_mobile
+m.kanalfrederikshavn.dk##.OA
+m.kanalfrederikshavn.dk##.OX
+m.valutakurser.dk##.banner-text
+madensverden.dk###yb_anchor_wrapper
+madensverden.dk##.maden-widget
+markedsforing.dk##.mega-banner
+markedsforing.dk##.adform
+markedsforing.dk##.acf-block
+matematikbogen.dk##td:nth-of-type(3)
+matoppskrift.no###sticky
+matoppskrift.no#?#.text-center:not(:-abp-has(img))
+matoppskrift.no##.overskrift_naeringsinnhold
+sol.no##main > noscript:first-of-type + div[class*=" "]
+mbl.is##.container:style(margin-top: 0 !important)
+mbl.is##.main-header:style(margin-top: 0 !important)
+mbl.is#?#.col-sm-6.col-12:-abp-has(.augl):not(:-abp-has(.fluid))
+medier24.no##.ad-toppbanner-article
+menn.is#?#.vc_column-inner:-abp-has(.mobile-ad):not(:-abp-has(a))
+menn.is#?#.vc_column:-abp-has(.mobile-ad):not(:-abp-has(a))
+meremobil.dk##.a-single
+meremobil.dk#?##header > div:-abp-has(div[id*=gpt-ad-])
+min-mave.dk##.topAdBannerFixed
+min-mave.dk##.vspacer
+minervanett.no#?#.row:-abp-has(> .adnuntius-ad)
+minmote.no##.ad-box
+minmote.no##.advert-container-inline
+minmote.no##.advert-horseshoe
+minmote.no##div[id^=advert-]:upward(1)
+mobil.nu,mobilkunden.dk##.tower
+mobilsiden.dk,telepristjek.dk###wrapper-top
+nakenprat.com##.threadbit:not([id])
+nakenprat.com#?##content:style(margin-left: 0 !important)
+nattogdag.no##.category-annonse
+nattogdag.no##.dfp_mod
+netdoktor.dk##.common-advert-bold
+newsbreak.dk##.ad-unit-center
+newsbreak.dk##.post-the-content > .clearfix
+newsbreak.dk##.post-the-content > div[class*=rectangle]
+newz.dk,railgun.dk##.widget_widget_ads
+nhi.no##.advert
+ni.dk###related-i
+ni.dk###st-back
+ni.dk###st-bottom
+ni.dk##script[data-adfscript]:upward(1)
+nord-salten.no#?#ul:-abp-has(.columnLogo)
+nordjyske.dk##.print-to-web-row
+nordjyske.dk##div[class*=banner]
+nordjyske.dk##div[class^=jubii-]
+norskkalender.no##.spacerDesktop
+nt24.no##.ygg-base-article + .x10
+nutiminn.is##section[id^=wp_is_mobile]
+nutiminn.is,newz.dk##.custom-html-widget.textwidget
+nyereiselivsavisen.no##.widget-annonse
+nyheder.tv2.dk##.o-article_sidebar > div.g-item
+onlinenytt.com##.textwidget > p
+parcferme.no##.code-block > p
+parcferme.no##ins[data-revive-zoneid]:upward(2)
+parcferme.no,rbkweb.no##.adsbygoogle:upward(2)
+pengenytt.no##.footer-ad-wrap
+pengenytt.no#?#.entry-content > h4:-abp-has(script[src$="/adsbygoogle.js"])
+pengenytt.no#?#.entry-content > h6:-abp-has(script[src$="/adsbygoogle.js"])
+pengenytt.no#?#.so-widget-sow-editor:-abp-has(a[href^="https://online.adservicemedia.dk/"])
+pengenytt.no#?#.textwidget:-abp-contains(Annonse)
+pengenytt.no#?#.widget-title:-abp-contains(Annonser)
+poki.no##div[class*=" advertisement-GP-"]
+politiken.dk##.ad--monster
+politiken.dk##.u-clearfix.row--justify-center.row > .js-sticky-container
+pressfire.no##.ad-netboard-front
+pressfire.no##.section-10
+prisjakt.*,prisjagt.dk###footer_header
+prisjakt.*,prisjagt.dk##.desktop-inline-ad
+prisjakt.*,prisjagt.dk##.outsider-ads
+prissok.no##.internal-poster
+procycling.no##.container-ad
+pulze.dk###topads
+purehelp.no##.dfptop
+purehelp.no#?#.float-left:-abp-has(span[id^=ezoic-pub-ad-placeholder-])
+qxl.*###crosslistingLauritzAdsenseBanner
+qxl.*###GoogleAdsenseFooter + div[style^="width: 100%;"]
+qxl.*###lauritzListingView
+qxl.*###leaderBoardListingviewTop
+qxl.*###whitetop:style(margin-top: 0px !important)
+qxl.*##.n_ListHeader:style(margin-top: 5px !important)
+recordere.dk##.td-header-header
+recordere.dk#?#.textwidget > div:-abp-has(script)
+recordere.dk#?#.widget_text:-abp-has(script):first-of-type
+retten.no##.adp-inscreen
+rorfag.no###right_side
+rorfag.no##.anonse
+rssnyheter.sveip.no##div[class^=ad_]
+seher.no##.adunit
+sermitsiaq.ag##.rek-wrapper
+side2.no##.doubleclickAd
+sistenytt.com###annonse_side
+sistenytt.com###midten
+skolediskusjon.no##iframe[src*="://ads."]:upward(1)
+smartepenger.no###g-expanded
+smartepenger.no###g-utility > .g-container
+sn.dk##.first_paragraph_banner
+sognavis.no##.row.hidden-print:not(.vspace)
+spillespill.no###bannerAdmeenRectangleTopContainer
+spillespill.no##.banner-leaderboard
+spillespill.no##.push
+sporttv.is##.row div[class^="auglysing-"]:upward(1)
+sporttv.is##div.col-xs-4.items:nth-of-type(5) > .box
+sporttv.is#?#.box:-abp-has(div[class^=auglysing-])
+sporttv.is,utdanningsnytt.no##.banner-right
+startsiden.no##div[class*=_dashboardAd_]
+startsiden.no##div[class*=advertisement_]
+startsiden.no##div[data-ga-action$=_ad]:upward(1)
+stiften.dk###lpc_belowArticle_1
+stiften.dk###lpc_belowArticle_3
+storm.no###topbanner
+studievalg.no###top-announce
+superchat.dk###topbanner_container
+superchat.dk##div[id^=div-ppas]:upward(1)
+sva.no##.code-block-1
+sva.no#?#.widget_text:not(:-abp-has(a))
+sva.no#?#section:not(:-abp-has(a))
+sveip.net##.adsbygoogle:upward(1)
+sveip.net##.app_ad2
+sveip.no##.notnews
+sysla.no##.ad-nexus-ad
+tek.no###application > div[class]:nth-of-type(1):nth-last-of-type(2)
+tek.no###topboard:upward(1)
+tek.no##body:before
+tek.no##div[class^=styles__]
+tek.no##section[class*=canvas]
+tek.no##section[class^=GreatCanvas__smallArticles-]:style(width: 100% !important)
+tek.no#?#article > div:-abp-contains(/^annonse$/)
+tek.no#?#main > div > div:-abp-contains(kommersielle partner)
+tek.no#?#main > section > section:-abp-contains(/^annonse$/)
+tek.no#?#section + div:-abp-has(span)
+tek.no#?#section:-abp-has(> div > div:-abp-contains(/^annonse$/))
+tek.no#?#section[hidden] + section:style(column-count: 3 !important; width: 100% !important)
+telefonterror.co.no,ukendtnummer.dk##.ad-comments
+terrengsykkel.no###wallpaperAds
+tipsbladet.dk##.c-single__box-inset
+tipsbladet.dk##.concept_banners-tag-wrapper
+tipsbladet.dk##.h-background-color-gray-background
+transitmag.no##.textwidget
+trening.no###dt-top-banner
+trening.no##.dfp-netboard
+trening.no##.mb-top-banner-wrapper
+trening.no##[id^=dt-netboard]
+treningsforum.no###dfp-leaderboard-container
+treningsforum.no##.ad.netboard
+treningsforum.no##.ad.post-item
+treningsforum.no##.ad.rightboard
+treningsforum.no##.ad.sideboard
+treningsforum.no##.ad.superboard
+trinesmatblogg.no##.sidebar__widget--ad
+tu.no##.frontpage-top-poster-wrap
+tungt.no#?#.columns:-abp-has([src="http://stillingsarena.no/stillingsarena/feeds.wa2?_cmd=feedshoriz&size=980x285"])
+tungt.no#?#div.large-12.row:-abp-contains(MASCUS)
+tunnelsyn.no#?#.widget_media_image:-abp-contains(/^ANNONSE/)
+tv2.dk#?#.o-deck:-abp-has(div[class^="ad ad-wide"])
+tv2.no##.lp-r > div
+tv2.no##div[data-cyp$=Advertisement]
+tv2.no##div[data-third-party-link^="\[\""]
+tv2.no#?#div[id^=module-]:-abp-has(div[data-adslot^=fullscreen-])
+tv3.dk##.channelHeaderLogo
+tv3sport.dk##.panorama
+tvkampen.com,tvsporten.dk###before-matches
+tvkampen.com,tvsporten.dk###clickable-bg
+tvkampen.com,tvsporten.dk###panorama
+ugeskriftet.dk##.ufl-banner
+uniavisen.dk##.hide-from-print.banner-module.module
+united.no#?#.fl-visible-desktop-medium:-abp-has(div[class^=ann-forside]:-abp-contains(/Annonse:/))
+united.no,valkal.no##.ads
+utdanningsnytt.no###Topbanner
+utdanningsnytt.no##fieldset
+utrop.no##.bottom-widead
+vafo.dk,folketidende.dk##.top_banner_container
+valutakurser.dk##.bottom_banner_div
+varden.no##.top_banner
+vartoslo.no##.vo-annonse
+vb.is##.big_spons
+veitingastadir.is##.footer_top > .footer-wrap > .columns
+version2.dk###headersub
+vg.no##.ad-wrapper
+vg.no##.finn-placeholder
+vg.no##div[id^=ad-front-netboard_]
+vg.no,bt.no##div[id^=adPlacement]
+vg.no,familieklubben.no##.appnexus
+vgtv.no##.page-container:style(margin-top: 0 !important)
+vimedhund.dk,madogvenner.dk##.g-ads
+visir.is##.df-auto-article
+visir.is##.padded.limit--tight.limit:style(padding-top: 15px !important)
+visir.is##div.padded--no-bottom.padded--less.padded.limit:style(padding-top: 5px !important)
+visitnorway.no#?##dtnContainer:-abp-has(.dtnad)
+vl.no##.ad-cols
+vl.no##.ad-fullwidth-container
+vl.no##.vlDesktopAd
+vredens-gnag.no##.ab-appnexus-ads-wrapper
+win-xp.no#?#tr > td > div:-abp-has(a[href*="clk.tradedoubler."])
+woman.dk##.gutter-bottom.article-content > div.wg-banner
+www.tv2.no##body:not(.broom):not(.lab):style(padding-top: 70px !important)
+yrkesbil.no###side > div:nth-of-type(1)
+yrkesbil.no##.forside_adholder:upward(1)
+yrkesbil.no##td:empty
+yrkesbil.no#?#td:-abp-has(> noscript)
+yrkesbil.no#?#td:-abp-has(img[src="gifs/1pix.gif"])
+anlast.no##.BannerContainerTop
+glr.no#?#.bottomSmallSpaced.topMediumSpaced:-abp-contains(/^Annonse/)
+glr.no##.topBarInLogoArea
+babyklar.dk##.top_header
+babyklar.dk##.text_box
+altomcamping.dk##.article-content > div[style^=width]
+hjartalif.is#?#aside.WP_Editor_Widget:-abp-has(script)
+hjartalif.is#?#.tdc-row:not(:-abp-has(a))
+kjarninn.is#?#.boxlist:-abp-has(.adspot-article-wrapper)
+gaming.fo###sticky_ad
+vg.no#?#.bundle li[class^=css-]:-abp-has(div[data-ad-subtype])
+f7.no##div[class*=-custom_ad_]
+f7.no##.td-loader-gif
+popidol.no,helsesjefen.no##.td-footer-ad
+f7hvordanlage.no##.navigation-banner
+f7city.no###text-5
+bobilportal.no###secondary > .widget_custom_html
+musikknyheter.no##.centered:not(#toTop)
+mittkongsvinger.no##.advertising
+kyst.no,skipsrevyen.no##.disableFocus > .kbSkip + .container
+golferen.no##.os_big_board_box
+golferen.no###os_ad_beam
+golferen.no###smallboard
+canariajournalen.no##.ad-separator
+canariajournalen.no##.ad-separator-top
+thainytt.no##.blog-entry > .stacks_out
+thaiguiden.no##.adsbygoogle:upward(5)
+tek.no#?#div:matches-css(min-height: 165px)
+teknologia.no#?#.widget_text:-abp-has(.adsbygoogle)
+opn.no###sidebar_2 #sidebarelement_2
+kondis.no##.wallpaperad
+kondis.no###content:style(margin-top: 0px !important)
+kondis.no##.thearticlecontent > .bannerlocation
+kondis.no##.bannerlocatixxxxon
+kondis.no##.articles .bannerlocation
+vagabond.no##.simple-news + .ad
+vagabond.no###facebook + .ad
+vagabond.no##.social + .ad
+spritnyt.com##.td-g-rec
+skinnelangs.no###sponsor_large
+skinnelangs.no###sponsor
+bygg.no##.ads-floating
+malviknytt.no#?#.td-pb-span8:-abp-has(.adsbygoogle)
+reiseliv.no#?#.has-text-align-center:-abp-has(> a[href*=".adservice"])
+edbpriser.dk##.inlist-ad-block
+edbpriser.dk##.product-list-row .description:style(position: static !important; word-break: break-word !important)
+in.fo##.mobile-hide[class*=" banner-"]
+in.fo##.row > .mobile-hide
+baadmagasinet.dk##.t3-sl
+hushagehobby.no,tidssonen.no##.widget_custom_html
+hushagehobby.no##.sidebar-inner aside:last-of-type
+kureren.no#?#td:-abp-has(> script[src*="/www/delivery/"])
+aarhusupdate.dk##.adslot-tag
+altomdata.dk##script[src^="//s1.adform.net"]:upward(2)
+pslife.dk##.banner_300
+magasinetskolen.dk##.region-leaderboard
+magasinetskolen.dk##.region-sidebar-first > .clearfix > .first
+indkast.dk##.site_ad_container
+indkast.dk##.flat
+kulturportalen.dk##.banner-block
+netavis.dk##.widget_banner_ads
+sykepleien.no##.advertisement-responsive
+gastromad.dk##.gastromad-widget
+gastrofun.dk##div[id^=block-steprectangle]
+gastromand.dk##.mfrek-widget
+thetravelinspector.no##.code-block
+alletilbudsaviser.co.no##.banner-inline
+alletilbudsaviser.co.no##td.visible-lg
+tilbudmaskin.no##.rek-container
+tilbudmaskin.no##.page-body .col-sm-6
+tilbudmaskin.no##.page-body .col-xs-12
+kimbino.*##.signad
+tilbudsuken.no##.contentBanner
+tiendeo.no###advertising_div
+tiendeo.no##li[style^="order:"]:not([style*="order: "])
+hringbraut.frettabladid.is#?#.popular-articles:-abp-has(> .scrolling-side-ad)
+bimmers.no##div[id="336x280-sidebar"]:upward(1)
+folkebladet.no###viewport > #outer
+godstart.dk###ad_PageTop
+godstart.dk###ad_PageBottom
+fcbarcelona.dk###advert
+fcbarcelona.dk###middlecoulmn > #social_links
+fcbarcelona.dk##.bluebox.custom
+fcbarcelona.dk###columnc
+fcbarcelona.dk#?#.bluebox:-abp-has([src*=bet365])
+fcbarcelona.dk#?#.bluebox:-abp-has(div[id^=cncpt-rec])
+fcbarcelona.dk#?#.bluebox_headlines:-abp-has(div[id^=cncpt-rec])
+fcbarcelona.dk###bottom_footer
+fcbarcelona.dk##.yellow
+fcbarcelona.dk###rightcolumn
+flatpanels.dk###sb-site > .hidden-xs.container
+flatpanels.dk##.hidden-xs.forsideboks2
+flatpanels.dk##div[style="text-align:center;clear:both;"]
+onlineposten.dk##.textwidget
+onlineposten.dk###header
+side6.dk##.apn-banner
+journalisten.dk##.article:style(padding-bottom: 10px !important)
+iform.dk##.horseshoe
+iform.dk##.responsive-images
+iform.dk,bilmagasinet.dk##.wg-banner
+kommunikationsforum.dk##.col-xs-12[style]
+finn.no##div.ads__unit
+123mc.dk##.dfp-top-wrp-wide
+123mc.dk##.padtop15.row
+123mc.dk##.text-center.col-md-4
+123mc.dk##.text-center.sidebar-module-inset
+herognu.dk##.header-sidebar
+herognu.dk##.single-sidebar
+bilmagasinet.dk#?#.wg-editorial:-abp-has(div[id^=cx_])
+ni.dk###e-header > div[style^=height]
+ni.dk##.narrow-banner
+ni.dk#?#.clearfixP.columns[style] .clearfixP.box-no-border:-abp-has(> .narrow-banner)
+abcnyheter.no##.c-native-group__container
+steinkjer24.no##article.ad
+nutiminn.is#?#.tdc-row:-abp-has(.vc_column:only-of-type .augl-container:only-of-type)
+nutiminn.is#?#.tdc-row:-abp-has(.td_block_text_with_title)
+nutiminn.is##article .tdc-row:first-of-type
+midjan.is##.widget[class*=bs-hidden-xs]:not([id*=thumbnail])
+visir.is##section > .padded--tight
+visir.is##div[data-placeholder=ad]
+||fcbarcelona.dk/*/images/footerbg.jpg^$image
+||730.no/banner/*/sonymusic/$frame
+||danishfamilysearch.dk/images/xp2^$image
+||gaysir.no/rek/bb_inline$frame
+||gulindex.no/-/js/spring.js^
+||mmm.dk/safeframe^$frame
+||static.vg.no/css/admark_top.gif
+||yrkesbil.no/gifs/1pix.gif^
+*/gifs/*emty.gif^$domain=yrkesbil.no|bilnorge.no
+-l%C3%BDsing-$image,domain=news.fo
+bt.dk##.article-container > .row > .sidebar
+bt.dk##.article-container > .row > .col-12.col-xl-8:style(width: 98.1% !important; max-width: none !important; flex: none !important)
+nakenprat.com###sidebar
+innherred.no##.master.x10
+rbkweb.no#?#font > table:first-of-type
+baadmagasinet.dk##.article-bottom .qx-inner > .qx-section:last-of-type
+dagens.dk,dust2.dk,kanalfrederikshavn.dk,videnskab.dk,politirapporten.dk,nyheder24.dk.tilbudsugen.dk,alletilbudsaviser.co.no##.banner
+komputer.no,natgeo.no,historienet.no,koplr.no,ing.dk,in.fo##.top-banner
+hsfo.dk,jv.dk,stiften.dk,viborg-folkeblad.dk,dagbladet-holstebro-struer.dk,ugeavisen.dk,fyens.dk##.adblock
+prisjakt.*,prisjagt.dk,dv.is,drm24.no##.adbox
+aftenposten.no,hockeymagasinet.dk,l-a.no###top-ads-container
+bygg.no,mmm.dk,kino.no##.ad
+byggfakta.no,byggfaktabolig.no,vvsaktuelt.no###bannerContainer:not(.HeaderBanner1)
+gulesider.no,degulesider.dk,krak.dk##.e-banner
+komputer.no,natgeo.no,historienet.no##.wg-banner
+byggeplads.dk,magasinetgulv.dk,officeplusdesign.dk##.region-header
+byggeplads.dk,magasinetgulv.dk,officeplusdesign.dk##.region-sidebar-second > div:first-of-type
+midtjyllandsavis.dk,herningfolkeblad.dk,ikast-brandenyt.dk##main > .container:not([class*=" "])
+midtjyllandsavis.dk,herningfolkeblad.dk,ikast-brandenyt.dk##.container-spacer
+midtjyllandsavis.dk,herningfolkeblad.dk,ikast-brandenyt.dk##.container-outer-wrapper > .col-2:last-of-type
+kulturplot.no,dagensperspektiv.no,velferd.no###main > .small-12:nth-of-type(1)
+seher.no##.content-marketing-ribbon:style(margin-top: 20px !important)
+##.advertisement
+##div[itemtype$=WPAdBlock]
+###BannerEniro
+###GoogleAdsenseWideSkyscraper
+###GoogleAdsenseWideSkyscraperLeft
+###viewItemAdsenseBanner
+###viewItemEniroBanner
+##.annonse:not(.article-entity)
+##.block-AnnonceBlocksAdform
+##.clearfix.top_banner_container
+vafo.dk##.adform-flexblock
+##.adform__topbanner
+##.googlepublisherpluginad
+##.polarisMarketing
+##.sub.menu-primary.default.polarisMenu.widget
+##.bazaarSpinnerContainer
+###jobads-topbanner
+##.tv2-ad
+##.auglysing_ticker
+##.premium-spot
+##.annonser
+##.mh-loop-ad
+##.ticker-ad
+##div[data-contenttype=ad]
+##[type=advertisement]
+~candidate.hr-manager.net##[class^=AdWrapper]
+##.wallpaper > .horseshoe
+##.os-inline
+###GoogleAdsensePanorama
+###GoogleAdsenseFooter
+~krone.at##.ad-container
+##.poster-placeholder
+##.vc_empty_space
+##.banners.post_sticky
+##div[data-adtext]
+##bazaar-ad
+##[id^=art-bazaarAd]
+||services.api.no/api/bazaar^$3p
+##.ad[data-config-name]
+##.ad.text-center
+##div[id*=html-embedded-ad]
+##.ad[id^=netboard_]
+##.ad[id^=skyscraper]
+##.ad.topBanner
+###sponsorstripe
+###adBlinkContainer
+###innocode-ad
+||85.17.76.181^$image
+##div[id^=webbannernetboard]
+##.ads__grid-item
+##div[data-placeholder=lokalnative]
+##div[id^=adPlacement_]
+##.undirsidaad
+.fo/css/img/banner2x1.png$image
+##div[data-third-party-link*=".smartadserver.com/"]
+##.am-page-ad
+##.adnuntius-ad
+##.intersect-ads-load
+||via.placeholder.com^$image
+##.tag-page-ad-container
+##.scrolling-side-ad-container
+##.ticker-ad-wrapper
+##.mobile-banner-widget
+##.widgerFullWidth
+##.desktop-banner-widget
+##.featuresplash-container
+##.ad-cookie
+||ni.dk/ni-news/*feed/*-bottom.html^$3p
+##.adform__text
+##.augl-container
+
+##.skille
+icelandreview.com,bir.no,medier24.no,knr.gl,nutiminn.is#?#p:-abp-contains(/^\xA0$/)
+icelandreview.com##.mk-padding-divider
+talkmore.no##.spacer
+ice.no##.air-block
+tnt-tv.no,tnt-tv.dk##.desktop_element.promo
+tnt-tv.no,tnt-tv.dk##.logos
+tnt-tv.no,tnt-tv.dk##.tabs_placeholder
+avvir.no###block-block-1 > p:nth-of-type(4)
+dyrevennene.no##.td-footer-wrapper
+yrkesbil.no#?#tr:-abp-contains(/^\xA0$/):not(:-abp-contains(/\S/)):not(:-abp-has(img))
+yrkesbil.no#?#td:-abp-contains(/^\xA0$/):not(:-abp-contains(/\S/)):not(:-abp-has(img))
+kvf.fo##.panels-flexible-row-grein-rnd-13
+oyggjatidindi.com##.bottom_space
+dr.dk#?#.dre-container--margin-bottom:-abp-has(.hydra-marketing-banner)
+
+||images.media.xxlsports.com/images/h90/h9d/9339713159198/bg.jpg$image
+||platekompaniet.no/assets/img/background.png$image
+||pepcall.no/wp-content/uploads/2015/04/bakgrunn-forside.jpg$image
+||tv2.no/s/lab/2.5/p/img/tv2-background.svg$image
+
+@@||seher.no/reise$generichide
+@@||stillingledig.*.no^
+@@.isdownorblocked.com^$doc
+||prod-adops-proxy.dnitv.net^$empty,domain=dplay.*|~dplay.it|~dplay.es
+@@||tv2.no/*/config/analytics.json$xhr,1p
+@@||schibsted.com/autoTracker$domain=vg.no
+@@||mparticle.com$script,domain=auth.dplay.*|~auth.dplay.it|~auth.dplay.es
+@@||assets.adobedtm.com/*/satelliteLib-$domain=auth.dplay.*|~auth.dplay.it|~auth.dplay.es
+krom.is#@#.share-container
+@@/images/*youtube.jpg$domain=realityportalen.dk
+@@||api.instagram.com^$domain=samiteahter.org
+@@||cookieinformation.com/*/*.js$domain=gulesider.no|degulesider.dk|krak.dk
+||ktg-content.cdn.prismic.io/api/*/documents/*(my.newsletter_popup.uid
+@@||consent.dk^$third-party,domain=ekstrabladet.dk
+dagbladet.no,elbil24.no#@#.subscription-box
+finn.no#@#.banner
+@@_prebid_$domain=seher.no
+@@/images/ads-db/right-tower/vipps-sponsor-$domain=canariajournalen.no
+eyjar.net#@#.side_ads
+fcbarcelona.dk#@##article_ad
+@@||cdn.easy-ads.com/js/swipemod.js^$script,domain=oa.no|rb.no|ta.no|sb.no|ostlendingen.no|smp.no|h-avis.no
+@@||easy-ads.com/subscriber^$image,domain=oa.no|rb.no|ta.no|sb.no|ostlendingen.no|smp.no|h-avis.no
+babyklar.dk#@#.ad-cell
+babyklar.dk#@#.ads300-250
+babyklar.dk#@#.ads300_250-widget
+in.fo#@#.ads-banner
+@@||images.jfmedier.dk/*_300_250_
+nytid.no#@#.td-a-rec
+telenor.no##.global-overlay-background
+@@||fe.adstate.net/assets/common/img/web_ad^$domain=ba.no|nidaros.no
+@@||fe.adstate.net/stream_file.php?type=ad_preview_image$domain=ba.no|nidaros.no
+@@||cmp.ekstrabladet.dk/get_site_data$xhr,1p
+@@||dialogue.sp-prod.net/messagingWithoutDetection.js$script,domain=ekstrabladet.dk
+@@||notice.sp-prod.net^$frame,domain=ekstrabladet.dk
+@@||sp-prod.net^$xhr,domain=ekstrabladet.dk
+
+
+$csp=upgrade-insecure-requests,domain=skessuhorn.is|sporttv.is|bobilverden.no|win-xp.no
+
+/advisibility_*.js^
+
+||widget.norsktippingpartner.no^$frame
+||widget.tippebannere.no^$frame,domain=~tipster.no
+||tipster.no/embed$frame
+###ntwidget
+##.ntbox-btn
+##.ntbox-tab.bg-primary
+###sportspill-box-top
+vglive.no##.tipster-liveodds-embed
+ba.no##.sportspill
+~norsk-tipping.no,~tipster.no##a[href*="norsk-tipping.no/lotteri/vikinglotto"]
+~norsk-tipping.no,~tipster.no##a[href*="norsk-tipping.no/lotteri/lotto"]
+~norsk-tipping.no,~tipster.no##a[href*="norsk-tipping.no/lotteri/eurojackpot"]
+~norsk-tipping.no,~tipster.no##a[href*="norsk-tipping.no/lotteri/extra"]
+~norsk-tipping.no,~tipster.no##a[href*="norsk-tipping.no/lotteri/viking-lotto"]
+~norsk-tipping.no,~tipster.no##a[href*="norsk-tipping.no/sales/validateCouponAndStoreToSession.json"]
+~norsk-tipping.no,~tipster.no##a[href*="nettavisen.no/sportspill/tipping/blir-du-mangemillionr-pa-onsdag"]
+nettavisen.no##a[href*=lotto-million]
+nettavisen.no#?#.front article:-abp-contains(Eurojackpot)
+dagsavisen.no##a[href*="norsk-tipping.no/artikler/"]
+startsiden.no##div[class*=partnerModule][data-ga-category^=NorskTipping]
+||vg.no/vgc/pool/tipster.png^$image
+/pustehullet/betting-header.png^$image
+
+gamereactor.*###ad_mobiletopinsidetext
+gamereactor.*###ad_video
+gamereactor.*###bigVideoAd
+gamereactor.*###eventad
+gamereactor.*###pagebackground:style(background-image: none !important)
+gamereactor.*###sky2_1
+gamereactor.*##+js(aopw, banner_video)
+gamereactor.*##+js(nano-stb, timeDown)
+gamereactor.*##.ad_smartphbig
+gamereactor.*##.ad_video
+gamereactor.*#?#.artistyle3:-abp-has(h4:-abp-contains(/sponsored/i))
+gamereactor.*##.cocacola
+gamereactor.*##.external_div_bigVideoAd:remove()
+gamereactor.*##.sponsor
+gamereactor.*##.vast_ad_video
+gamereactor.*##.videoContent > .clickTag
+gamereactor.*##a[href*="/adclick.php"]
+gamereactor.*##a[href^="/grtv/"][title*=Sponsored]:upward(1)
+gamereactor.*#?#article.rwd_row:-abp-has(a[href$="/sponsoredcontent/"])
+gamereactor.*##div[class^="ad300"]
+gamereactor.*##div[style*="width:300px;height:600px;"]
+gamereactor.*##div[style="min-height: 600px; margin-bottom: 20px;"]
+gamereactor.*##+js(ra, autoplay)
+||gamereactor.*/lay/ad-video-stats.$script
+||gamereactor.*/lay/dfp_$script
+||gamereactor.*/lay/js/adblock_desktop.$script
+||gamereactor.*/lay/js/background.$script
+||gamereactor.*/lay/js/banners_config.$script
+||gamereactor.*/lay/js/manageBanners.$script
+||gamereactor.*/media/eventad/$image
+||media.gamereactor.dk/*Promo$mp4,domain=gamereactor.*
+||media.gamereactor.dk/prerolls$mp4,domain=gamereactor.*
+||openx.gamereactor.dk/multi.php?$important,script
+/insert_grtv_stats.$xmlhttprequest,domain=gamereactor.*
+/prerolls/*$domain=gamereactor.*
+/videojs.ima.$script,domain=gamereactor.*
+@@||imasdk.googleapis.com/js/sdkloader/ima3.$script,domain=gamereactor.*
+@@||openx.gamereactor.dk/www/delivery/fc.php$xhr,domain=gamereactor.*
+viafree.*##.vjs-playing:upward(1) ~ .no-autoplay-overlay
+viafree.*##.ad-click-through
+viafree.*##.pause-ad
+viafree.*##.pause-ad-container
+||viafree.*/collect$important,xhr
+||client-stream-events.mtg-api.com^$domain=viafree.*
+||freewheel-mtgx-tv.akamaized.net^$media,domain=viafree.*
+@@||fwmrm.net/ad/$image,xhr,domain=viafree.*
+@@||fwmrm.net/crossdomain.xml$xhr,domain=viafree.*
+/insert_grtv_stats.$xhr,app=com.gamereactor
+/prerolls/*$app=com.gamereactor
+/videojs.ima.$app=com.gamereactor
+@@||imasdk.googleapis.com/js/sdkloader/ima3.$app=com.gamereactor
+@@||openx.gamereactor.dk/www/delivery/fc.php$app=com.gamereactor
+
+alternativ-media.com##.wpa
+ektenyheter.no##.cm-message
+resett.no##.tdm-mobile-full
+resett.no##a[href="https://resett.no/annonseweb/"]
+resett.no###cookie
+resett.no##[class="td_single_image_bg"]
+resett.no##a[href*="dekristne.no"]
+resett.no#?#.code-block:-abp-contains(annonse)
+resett.no##.td-visible-desktop
+resett.no##a[href*="ekstrahus.no"]
+resett.no##.td-ss-main-sidebar
+resett.no##a[href*="pureorganic.no"]
+/*-annonse-*$image,domain=resett.no
+resett.no#?#.code-block:-abp-contains(Reklame):not(:-abp-contains(butikk))
+norgesavisen.no##.td-fix-index
+frihetskamp.net##a[href*="greenpilled.com"]
+frihetskamp.net##a[href*="nordenstil.no"]
+@@||politainment.no^*/cookieconsent.min.js
+@@||politainment.no^*/cookieconsent.min.$script,stylesheet
+
+elkjop.no,elgiganten.dk###A-value:style(fill: #fff12c !important)
+elkjop.no,elgiganten.dk###B-value:style(fill: #edb731 !important)
+elkjop.no,elgiganten.dk###C-value:style(fill: #ed8631 !important)
+
+nettavisen.no###topover-loader
+nettavisen.no###topover
+
+@@||bondebladet.screen9.tv^$generichide
+@@||eurosport.no^$generichide
+@@||eurosport.dk^$generichide
+@@||bildeler.name^$generichide
+@@||reservedele.name^$generichide
+
+
+vg.no#?#span:style(font-feature-settings: normal)
+
+newz.dk##.top-interstitial
+krs247.no#@##adsense
+vg.no,e24.no##.ad
+vgtv.no###player.pulse-isPauseAdVisible > .jw-overlays
+fuglelyder.net#@##banner_ad
+gulindex.no###cintmodal
+||panel.cint.com^$domain=gulindex.no
+jyllands-posten.dk##.bpTopPlacement
+finans.dk##.baPosition
+politiken.dk##.ad--horseshoe
+itavisen.no##.banner
+trendsales.dk##.top__banner
+~nytid.no##.td-a-rec
+###topBanners
+
+
+||paypal.*.no^$doc
+||vg.no.$doc
+||elkjop.no.$doc
+||coop.no.$doc
+||shell.no.$doc
+||finn.no.$doc
+||posten.no.$doc
+||postnord.no.$doc
+/finn.no/finno.htm$doc,domain=~facebook.com
+||dnb.no.$doc
+||sparebank1.no.$doc
+||nordea.no.$doc
+||sbanken.no.$doc
+||danskebank.no.$doc
+/?finn.no/login$doc
+||komplett.no.$doc
+||nordnet.no.$doc
+||skatteetaten.no.$doc
+*/begrensede-tilbudet/$doc
+||norwegian.com.$doc
+||flysas-no.$doc
+||tusenfryd-com.$doc
+*/bli-avbrutt-bor-du-oppdater/$doc
+*/Norgesecure/$doc
+||.gratis-reisebilletter.$doc
+*/KiwiErbjudanden1/$doc
+||trackvoluum.com^$doc
+*/pakkerlevering/$doc
+||102.112.2o7.net^$doc
+||tromselementbygg.no^$doc
+||no.zxxyw.com^
+||apple-account-locked.losjevegen.no^$doc
+||arvetellefsen.no/curry^$doc
+||holmedalblikk.no^$doc
+||vipps-sikkerhet.$doc
+*/dnb11111^$doc
+||nymelding.com^$doc
+||mrcal365.com^$doc
+||ultimate-tech-products.myshopify.com^$doc
+||look-like-star.myshopify.com^$doc
+||limitedvoucher.com^$doc
+||djurs.com-*.$doc
+||pensjonistferie.no^$doc
+||postuksus.com^$doc
+||52.216.146.90^
+||92.42.104.146^
+||beatsapple.top^$doc
+||jimmychoostore.top^$doc
+||hervelegeroutletusa.com^$doc
+||replicapatekphilippe.com^$doc
+||hot-rap-beats.top^$doc
+||replicarolexyachtmaster.com^$doc
+||secureriches.com^$doc
+||appleid.*.no^
+||itunesconnect-*.no^
+||fullbagcash.com^
+||bizcashtrend.com^$doc
+||toptechmania.com^$doc
+
+||rnbinance.com^$doc
+||brightertrade.com^$doc
+||cost2buy.net^$doc
+||kongeparken.com-*$doc
+||kiwi.com-*$doc
+||ruter.top^$doc
+||gokkw.com^$doc
+||earnmoneyglobal.com^$doc
+||trendyn.me^$doc
+||getmail-no.$doc
+||surveryrewards1.com^$doc
+||pprfct.com^$doc
+||liveshopdealz.com^$doc
+||elkjop*.club^$doc
+/css/*sparebank1.no^$doc
+||phosphox.com^$doc
+||nodzoom.com^$doc
+||rbgeg.com^$doc
+||rbkbb.com^$doc
+||addmoviesnow.com^$doc
+||faarup.com-*.$doc
+||com-dk.com^$doc
+||legoland.com-*.$doc
+||bondiblue.co.uk^$doc
+||ucrhealthyhearts.com^$doc
+||myk-news.com^$doc
+||hcliips.com^$doc
+||bestphoneapplication.com^$doc
+||vision-hey.club^$doc
+||top-topic.co^$doc
+||geometra-bologna.it^$doc
+||sky.gs^$doc
+||is-a-personaltrainer.com^$doc
+||rigspolitiet.com^$doc
+||nemid.org^$doc
+||topgadgetboom.com^$doc
+||ocgadgets.com^$doc
+||ocgadgetss.myshopify.com^$doc
+||onelifetechno.com^$doc
+||rbaab.net^$doc
+||rbppg.net^$doc
+||ekstrabiadet.$doc
+||kronoscm.com^$doc
+||daily-news.tech^$doc
+||limevow.com^$doc
+||travelersloch.com^$doc
+||trainingcalculate.com^$doc
+||fintechnow*.buzz^$doc
+||wealthnews*.xyz^$doc
+||rbono.net^$doc
+||roopede.com^$doc
+||no-personal.com^$doc
+||transitsuburban.com^$doc
+||newzeninfotech.com^$doc
+||probenefit.net^$doc
+||ssbeveragedistribution.com^$doc
+||norge.*.icu^$doc
+||euronews*.buzz^$doc
+||softwaredaily*.monster^$doc
+||stalknews*.buzz^$doc
+||goldupdates*.xyz^$doc
+||sikre-vipps-konto.$doc
+||vidcopa.me^$doc
+||luxshifting.com^$doc
+||smallrise.com^$doc
+||lepq.club^$doc
+||lampnatives.com^$doc
+||offerleads.club^$doc
+/cop-no/index.htm$doc
+||ninjaschools.org^$doc
+||bamboobotanica.com^$doc
+/survey/heldige^$doc
+||cionialessio.it^$doc
+||sites.google.*/halaman-muka^$doc
+||sites.google.com/view/truls-svendsen^$doc
+||signup-*vpns.com^$doc
+||is-by.us^$doc
+||velumstand.com^$doc
+||thesleepinggod.com^$doc
+||telenors.*.cx^$doc
+||ssl-bekreftelse-abonnement.com^$doc
+||valspe.com.br^$doc
+||tekuon.com^$doc
+||51.195.133.131^
+||66.206.3.34^
+||82.118.242.69^
+||136.243.73.30^
+||138.201.126.227^
+||156.236.126.173^
+||196.196.230.76^
+||167.71.49.177^
+||134.209.82.119^
+||154.213.16.136^
+
+||adidasko.com^$doc
+||airmaxskobillige.com^$doc
+||allergyfl.com^$doc
+||apvoc-ga.com^$doc
+||assassinfitness.com^$doc
+||benshermanoslo.com^$doc
+||billigesalg.com^$doc
+||bostongrnhsflowers.com^$doc
+||caperforaciones.com^$doc
+||coralls.com^$doc
+||crossfiterada.com^$doc
+||crownedwithlaurels.com^$doc
+||daradis.com^$doc
+||denningwelldrilling.com^$doc
+||drakternorge.com^$doc
+||drcarolyngroff.com^$doc
+||dunjakke-no.com^$doc
+||easyliving4you.com^$doc
+||eurosko.net^$doc
+||fatalfailblog.com^$doc
+||festmusikk.com^$doc
+||fotballsko-salg.com^$doc
+||gantoslo.com^$doc
+||godeskonettbutikk.com^$doc
+||gsport.com^$doc
+||hernoclothing.com^$doc
+||hollisternorge.com^$doc
+||jakkesalgs.com^$doc
+||jakkesnorge.com^$doc
+||joseph-holland.com^$doc
+||jessicaivory.com^$doc
+||legarralazcoz.com^$doc
+||lindseysopticians.com^$doc
+||linkshe.com^$doc
+||lrgst.com^$doc
+||manasporthorse.com^$doc
+||mayor4london.com^$doc
+||mbtnorge.com^$doc
+||meladermfacts.com^$doc
+||mncprobuild.com^$doc
+||moebel-thiems.com^$doc
+||moslt.com^$doc
+||moteshoes.com^$doc
+||mrarmstrongsclass.com^$doc
+||museuw.com^$doc
+||mycraftypad.com^$doc
+||nasajones.com^$doc
+||nikebutikks.com^$doc
+||no.moncleritalien.com^$doc
+||nordartisan.com^$doc
+||norfotball.com^$doc
+||norgefotball.com^$doc
+||norge.parkaoutdoor.com^$doc
+||norgejakke.com^$doc
+||norgejakkerbutikk.com^$doc
+||norgeshoes.com^$doc
+||oflike.com^$doc
+||omgrm.com^$doc
+||parajumpers-salg.com^$doc
+||parajumpersitoutlet.com^$doc
+||parajumpersnettbutikk.com^$doc
+||parajumpersnorway.com^$doc
+||parajumperssalg.com^$doc
+||pjs.outlet.com^$doc
+||popeurope.com^$doc
+||quiltstudiolaren.com^$doc
+||retoaudi.com^$doc
+||skonmdnorge.com^$doc
+||sykkeltrøye.com^$doc
+||tobiascelebritymusicevents.com^$doc
+||um-bs.com^$doc
+||vansnorge.com^$doc
+
+||nofotballshop.com^$doc
+||nofotballstore.com^$doc
+||nodrakts.com^$doc
+||dkfodboldstore.com^$doc
+||vmfodboldtoj.com^$doc
+||minfodboldbutik.com^$doc
+||5.39.217.206^
+||5.39.221.180^
+||193.148.70.153^
+
+||desidert.no^
+||brigitteheilmann.dk^
+||storustovu.dk^
+||campingnews.dk^
+
+# End
