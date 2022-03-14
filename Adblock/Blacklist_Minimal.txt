@@ -218,9 +218,6 @@ ff02::3 ip6-allhosts
 #YouTube
 0.0.0.0 ads.youtube.com
 0.0.0.0 youtube.cleverads.vn
-0.0.0.0 youtube.com##.style-scope, .ytd-display-ad-renderer
-0.0.0.0 youtube.com###content > ytd-display-ad-renderer.style-scope.ytd-rich-item-renderer
-0.0.0.0 youtube.com##.video-ads, .ytp-ad-module
 
 ##Mix ====================
 # Yahoo
