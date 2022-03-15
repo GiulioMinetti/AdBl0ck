@@ -381,6 +381,11 @@ uzkartes.lv###sz
 varianti.lv##.ad_prian
 varianti.lv##.textbanners
 vgk.lv##.infobox
+youtube.com##.style-scope, .ytd-player-legacy-desktop-watch-ads-renderer
+youtube.com##.style-scope, .ytd-rich-grid-row
+youtube.com##.style-scope, .ytd-display-ad-renderer
+youtube.com###content > ytd-display-ad-renderer.style-scope.ytd-rich-item-renderer
+youtube.com##.video-ads, .ytp-ad-module
 zeltazivtina.lv###banner
 zip.lv###perkam_group_banner
 zip.lv##.zip_spotlight.main_td
