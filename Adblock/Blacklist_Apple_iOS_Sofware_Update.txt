@@ -28,10 +28,13 @@ ff02::3 ip6-allhosts
 # Block Server ====================
 
 # Apple iOS Sofware Update
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 pagead2.googleadservices.com
-0.0.0.0 ads.google.com
-0.0.0.0 adservice.google.com
-0.0.0.0 googleadservices.com
+0.0.0.0 mesu.apple.com
+0.0.0.0 gdmf.apple.com
+0.0.0.0 appldnld.apple.com
+0.0.0.0 ocsp.apple.com
+0.0.0.0 ocsp.int-x3.letsencrypt.org
+0.0.0.0 swscan.apple.com
+0.0.0.0 world-gen.g.aaplimg.com
+0.0.0.0 xp.apple.com
 
 # End
