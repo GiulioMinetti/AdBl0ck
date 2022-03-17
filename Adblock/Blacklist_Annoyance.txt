@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Version: 4.0
-! Title: Blacklist Pi-Hole YouTube Test
+! Title: Blacklist Annoyance
 ! Last modified: 17 Mar 2022 10:54
 ! Expires: 365 days
 ! Homepage: https://adbl0ck.netlify.app/
