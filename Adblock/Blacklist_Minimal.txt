@@ -218,6 +218,7 @@ ff02::3 ip6-allhosts
 #YouTube
 0.0.0.0 ads.youtube.com
 0.0.0.0 youtube.cleverads.vn
+0.0.0.0 youtube.com##.video-stream, .html5-main-video
 
 ##Mix ====================
 # Yahoo
