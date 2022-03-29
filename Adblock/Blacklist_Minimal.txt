@@ -218,8 +218,7 @@ ff02::3 ip6-allhosts
 #YouTube
 0.0.0.0 ads.youtube.com
 0.0.0.0 youtube.cleverads.vn
-0.0.0.0 youtube.com###movie_player > div.ytp-cued-thumbnail-overlay:nth-child(6) > div.ytp-cued-thumbnail-overlay-image:first-child
-0.0.0.0 youtube.com###movie_player > div.ytp-iv-video-content:nth-child(22) > div.video-annotations > div.video-custom-annotations
+
 
 ##Mix ====================
 # Yahoo
