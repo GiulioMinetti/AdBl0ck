@@ -1,0 +1,87 @@
+[Adblock Plus 2.0]
+! Version: 4.0
+! Title: Blacklist Extremely Condensed
+! Last modified: 30 Mar 2022 23:09
+! Expires: 365 days
+! Homepage: https://adbl0ck.netlify.app/
+!
+
+# Start
+
+#Ads ====================
+
+###ads
+###leaderboard
+###player-ads
+###rc-row-container
+##.ad-frame-container
+##.ad-panel
+##.ad-slot
+##.adbox
+~mail.google.com##.ads
+##.adsbygoogle
+##.adunit
+##.adunit-wrapper
+##.b_ad
+##.leaderboard
+##[class^=nativead]
+##div[class*=-ad-container]
+##div[class*=ad-wrapper]
+##div[id*=_ad_native]
+##div[id^=div-gpt-ad]
+##div[id^=google_ads_]
+##div[id^=netboard_]
+##div[id^=skyscraper]
+.*/ads.
+.*/ads/
+.*/ads?
+.*/adv/
+/getads.
+/smartads.
+/get_midroll_
+/wp-content/*banner$image
+@@/ads.scss
+||abbp1.*.
+||ad.*.
+||adnxs.com^
+||ads.*.
+||adserver.*.
+||adspaces.*.
+||adserving.*.
+||ads2.*.
+||adcache.*.
+||adext.*.
+||intellitxt.com^
+||taboola.com^
+||widgets.outbrain.com^
+||adproxy.*.
+||ad01.*.
+||ad1.*.
+||ad2.*.
+||ad3.*.
+||ad4.*.
+||adcontent.*.
+||adimages.*.
+||adimg.*.
+||ads1.*.
+||ads3.*.
+||adserv.*.
+||adserve.*.
+||adserver1.*.
+||adserver2.*.
+||adsrv.*.
+||adsrv2.*.
+||adsrvmedia.*.
+||adtech.
+||adtrack.*.
+||adv-banner.*.
+||adv.*.
+||advert.*.
+||advertiser.*.
+||advertising.*.
+||adverts.*.
+||xhr.*.
+||advertisement.*.
+||adservice.*.
+
+# End
