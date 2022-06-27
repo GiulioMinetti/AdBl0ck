@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 4.0
 ! Title: Blacklist iOS
-! Last modified: 6 Mar 2022 23:57
+! Last modified: 6 Mar 2022 21:38
 ! Expires: 365 days
 ! Homepage: https://adbl0ck.netlify.app/
 !
@@ -507,7 +507,6 @@ adserver.snapads.com
 dl-debug.dropbox.com
 telemetry.dropbox.com
 telemetry.microsoft.com
-telemetry.mozilla.org
 improving.duckduckgo.com
 cstat.apple.com
 unagi-na.amazon.com
@@ -559,7 +558,6 @@ traffic.club
 stats.wp.com
 pixel.wp.com
 sharethis.com
-addthis.com
 trackjs.com
 clicks.beap.bc.yahoo.com
 secure.footprint.net
@@ -14919,12 +14917,41 @@ analytics.us.algolia.com
 ||vxcp.de^$important
 ||players.delight-vr.com^$important
 ||vteam.focus.de^$important
-||unityads.unity3d.com^$important
 ||pki-goog.l.google.com^$important
 ||cdn.pubnative.net^$important
 ||6950b287179d17a9d226ad6001d81b33-adf0901f1861.cdn5.forter.com^$important
 ||prod-a4.applovin.com^$important
-||applovin.com^$important
 ||adserver.targroup-media.de^$important
+||advertising.apple.com^
+||banners.itunes.apple.com^
+||iad.apple.com^
+||iadcontent.apple.com^
+||iadctest.qwapi.com^
+||iadmoo.apple.com^
+||iadworkbench.apple.com^
+||launch.apple.com^
+||metrics.apple.com^
+||qwapi.apple.com^
+||securemetrics.apple.com^
+! multiple known subdomains are covered by the definition below
+||iadsdk.apple.com^
+! ||news.iadsdk.apple.com^
+! ||ca.iadsdk.apple.com^
+! ||cf.iadsdk.apple.com^
+! ||cs.iadsdk.apple.com^
+! ||su.iadsdk.apple.com^
+! ||tr.iadsdk.apple.com^
+! ||ut.iadsdk.apple.com^
+! comscoreresearch is used for analystics for other customers than apple, and uses several tld; this blocks them all
+||comscoreresearch.*^
+! ||apple.comscoreresearch.com^
+||advp.apple.com^
+! ||ls.advp.apple.com^
+! ||proxy.advp.apple.com^
+! ||webproxy.advp.apple.com^
+! multiple known domains are covered by the definition below; also blocks other potential candidates that would use a distribution network
+||iad-apple.com*^
+! ||webproxy-advp.iad-apple.com^
+! ||webproxy-advp.iad-apple.com.akadns.net^
 
 # End
