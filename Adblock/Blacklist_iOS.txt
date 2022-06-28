@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 4.0
 ! Title: Blacklist iOS
-! Last modified: 6 Mar 2022 21:38
+! Last modified: 26 Jun 2022 15:21
 ! Expires: 365 days
 ! Homepage: https://adbl0ck.netlify.app/
 !
@@ -582,33 +582,7 @@ adsbynimbus.com
 log-va.tiktoktv.com
 analytic.rollout.io
 analytics.us.algolia.com
-||050y9lhe8p.com^$important
-||0914.global.ssl.fastly.net^$important
-||0c3-a.tlnk.io^$important
-||0i0i0i0.com^$important
-||1-100-62-1.b.cdn13.com^$important
-||101order.com^$important
-||1197817332.peerclicktrk.com^$important
-||123found.com^$important
-||123mov.is^$important
-||140proof.com^$important
-||1551038821.m-wlmw.com^$important
-||1551282655.m-wlmw.com^$important
-||162f24aaa36a42da94d7fafb8e417e29-adf0901f1861.cdn.forter.com^$important
-||1681.engine.mobileapptracking.com^$important
-||180hits.de^$important
-||180searchassistant.com^$important
-||181fm.adswizz.com^$important
-||181fm.deliveryengine.adswizz.com^$important
-||189638.engine.mobileapptracking.com^$important
-||19534.redirect.appmetrica.yandex.com^$important
-||1bb821ddb967b3e010b63f2a2f3308e3.api.appsee.com^$important
-||1mp.mobi^$important
-||1phads.com^$important
-||1x1rank.com^$important
-||2.iad.appboy.com^$important
-||204.scloud.lfengmobile.com^$important
-||207.net^$important
+
 ||20min.app.tamedia.click^$important
 ||22-fa-df9fb22a88ad420abf8c365738dd37cb.vip2-lon1.dlvr1.net^$important
 ||22006.tlnk.io^$important
